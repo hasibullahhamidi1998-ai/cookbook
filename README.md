@@ -126,3 +126,4 @@ For enterprise developers, the Gemini API is also available on Google Cloud Vert
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 Thank you for developing with the Gemini API! We're excited to see what you create.
+
